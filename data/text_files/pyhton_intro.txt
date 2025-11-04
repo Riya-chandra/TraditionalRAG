@@ -1,0 +1,8 @@
+Python ek high-level, interpreted, aur general-purpose programming language hai — jo simple syntax aur human-readable code ke liye famous hai.
+Iska matlab: likhna aur samajhna dono easy hota hai.
+
+Easy to learn & read
+✅ Cross-platform (Windows, Mac, Linux sab me chalta hai)
+✅ Dynamic Typing (datatype likhne ki zarurat nahi)
+✅ Huge library support
+✅ Community support (sabse popular language hai)

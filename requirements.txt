@@ -1,0 +1,8 @@
+langchain 
+langchain-core
+langchain-community
+pypdf
+pymupdf
+
+
+# i pykernal to work along with the jupiternotebook
