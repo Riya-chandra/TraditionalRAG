@@ -3,6 +3,8 @@ langchain-core
 langchain-community
 pypdf
 pymupdf
-
+sentence-transformers    #support in hugginf face
+faiss-cpu  #vectorstore
+chromadb  #vectorDB open surce
 
 # i pykernal to work along with the jupiternotebook
